@@ -1,0 +1,19 @@
+ h1{
+   color: brown;
+   text-align: center;
+   text-decoration: underline;
+   border-radius: 10px;
+
+}
+
+menu{
+    color: aliceblue;
+}
+article{
+    text-align: center;
+    
+}
+
+.menu{
+    text-align: center;
+}
